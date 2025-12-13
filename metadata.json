@@ -1,0 +1,5 @@
+{
+  "name": "FabLab Stock Manager",
+  "description": "Une application moderne de gestion d'inventaire pour FabLabs, assistée par l'IA Gemini pour l'organisation et le suivi du matériel.",
+  "requestFramePermissions": []
+}
